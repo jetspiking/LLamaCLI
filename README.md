@@ -11,8 +11,10 @@ The following runtimes are supported:
 - MacOS
 
 The following platforms are supported:
-- CPU (Intel, Apple, AVX, no AVX)
+- CPU (AVX, no AVX)
 - GPU (CUDA Windows, CUDA Linux)
+
+Currently only CUDA 12 is supported.
 
 # Usage
 ```sh
